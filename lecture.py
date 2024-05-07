@@ -35,4 +35,6 @@ class Lecture:
         print('Second Lecture Timeslot: ', self.second_lecture_timeslot)
         print('Second Lecture Room: ', self.second_lecture_room)
         print('Second Lecture Room Size: ', self.second_lecture_room_size)
-    
+
+    def tabulate(self):
+        return [self.first_lecture_day, self.first_lecture_timeslot, colored(self.course + " " + self.section, 'green')]

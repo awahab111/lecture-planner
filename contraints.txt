@@ -31,3 +31,35 @@ Other Details:
         Second-lecture-timeslot, Second-lecture-room, Second-lecture-room-size
 
 • The fitness function should be an inverse or negative of the sum of all the conflicts/clashes.
+
+
+1. Initialize population
+    For each individual in population
+        For each attribute in chromosome
+            Randomly assign a binary string based on the number of possible values for the attribute
+
+2. Evaluate fitness of each individual in the population
+    For each individual in population
+        Decode the binary string of each attribute to its actual value
+        Calculate fitness based on how well the decoded schedule meets the constraints
+
+3. While not termination condition (e.g., max number of generations, or a solution with acceptable fitness is found)
+    1. Select parents for reproduction based on their fitness
+        Higher fitness individuals have a higher chance of being selected
+
+    2. Perform crossover on parents to generate offspring
+        For each pair of parents
+            Choose a random crossover point
+            Swap the bits after the crossover point between the two parents to create two offspring
+
+    3. Perform mutation on offspring
+        For each offspring
+            For each bit in the offspring's chromosome
+                With a small probability, flip the bit
+
+    4. Evaluate fitness of each individual in the new population
+
+    5. Select individuals for the next generation
+        Could be a combination of best individuals from the current and new population
+
+4. Return the best schedule found
