@@ -1,0 +1,108 @@
+╒═══════════════╤══════════════════════════════════╤══════════════════════════════════╤══════════════════════════════════╤══════════════════════════════════╤══════════════════════════════════╕
+│ Time          │ Monday                           │ Tuesday                          │ Wednesday                        │ Thursday                         │ Friday                           │
+╞═══════════════╪══════════════════════════════════╪══════════════════════════════════╪══════════════════════════════════╪══════════════════════════════════╪══════════════════════════════════╡
+│ 08:30 - 09:50 │ Software Engineering (Theory)    │ PDC (Theory)                     │ Software Engineering (Theory)    │ PDC (Theory)                     │                                  │
+│               │ B                                │ C                                │ B                                │ C                                │                                  │
+│               │ Prof. Moore                      │ Prof. Moore                      │ Prof. Moore                      │ Prof. Moore                      │                                  │
+│               │ 302-C                            │ 304-C                            │ 302-C                            │ 304-C                            │                                  │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ Artificial Intelligence (Theory) │ PDC (Theory)                     │ Artificial Intelligence (Theory) │ PDC (Theory)                     │                                  │
+│               │ C                                │ E                                │ C                                │ E                                │                                  │
+│               │ Prof. Zille Huma                 │ Prof. Muhammad Ali               │ Prof. Zille Huma                 │ Prof. Muhammad Ali               │                                  │
+│               │ 301-C                            │ 305-C                            │ 301-C                            │ 305-C                            │                                  │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ Artificial Intelligence (Theory) │                                  │ Artificial Intelligence (Theory) │                                  │
+│               │                                  │ F                                │                                  │ F                                │                                  │
+│               │                                  │ Prof. Johnson                    │                                  │ Prof. Johnson                    │                                  │
+│               │                                  │ 102-D                            │                                  │ 102-D                            │                                  │
+├───────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
+│ 10:05 - 11:25 │ Numerical Computing (Theory)     │ Web Programming (Theory)         │ PDC (Theory)                     │ Web Programming (Theory)         │ PDC (Theory)                     │
+│               │ A                                │ A                                │ D                                │ B                                │ D                                │
+│               │ Prof. Muhammad Ali               │ Prof. Muhammad Ali               │ Prof. Anderson                   │ Prof. Saad Salman                │ Prof. Anderson                   │
+│               │ 305-C                            │ 305-C                            │ 301-C                            │ 304-C                            │ 301-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ Web Programming (Theory)         │ PDC (Theory)                     │ Numerical Computing (Theory)     │ PDC (Theory)                     │
+│               │                                  │ B                                │ F                                │ E                                │ F                                │
+│               │                                  │ Prof. Saad Salman                │ Prof. Moore                      │ Prof. Aqib Rehman                │ Prof. Moore                      │
+│               │                                  │ 304-C                            │ 102-D                            │ 302-C                            │ 102-D                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ Numerical Computing (Theory)     │ Numerical Computing (Theory)     │ Numerical Computing (Theory)     │ Web Programming (Theory)         │
+│               │                                  │ E                                │ A                                │ F                                │ A                                │
+│               │                                  │ Prof. Aqib Rehman                │ Prof. Muhammad Ali               │ Prof. Bilal Khalid               │ Prof. Muhammad Ali               │
+│               │                                  │ 302-C                            │ 305-C                            │ 101-D                            │ 305-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ Numerical Computing (Theory)     │                                  │                                  │                                  │
+│               │                                  │ F                                │                                  │                                  │                                  │
+│               │                                  │ Prof. Bilal Khalid               │                                  │                                  │                                  │
+│               │                                  │ 101-D                            │                                  │                                  │                                  │
+├───────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
+│ 11:40 - 13:00 │ Web Programming (Theory)         │ Software Engineering (Theory)    │ PDC (Theory)                     │ Web Programming (Theory)         │ PDC (Theory)                     │
+│               │ F                                │ E                                │ A                                │ F                                │ A                                │
+│               │ Prof. Saad Salman                │ Prof. Johnson                    │ Prof. Bilal Khalid               │ Prof. Saad Salman                │ Prof. Bilal Khalid               │
+│               │ 101-D                            │ 304-C                            │ 302-C                            │ 101-D                            │ 302-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │                                  │                                  │                                  │ Software Engineering (Theory)    │
+│               │                                  │                                  │                                  │                                  │ E                                │
+│               │                                  │                                  │                                  │                                  │ Prof. Johnson                    │
+│               │                                  │                                  │                                  │                                  │ 304-C                            │
+├───────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
+│ 13:15 - 14:35 │ PDC (Theory)                     │ Software Engineering (Theory)    │ PDC (Theory)                     │ Software Engineering (Theory)    │ Software Engineering (Theory)    │
+│               │ B                                │ A                                │ B                                │ A                                │ D                                │
+│               │ Prof. Saad Salman                │ Prof. Muhammad Ali               │ Prof. Saad Salman                │ Prof. Muhammad Ali               │ Prof. Aadil Ur Rehman            │
+│               │ 302-C                            │ 304-C                            │ 302-C                            │ 304-C                            │ 301-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ Numerical Computing (Theory)     │ Software Engineering (Theory)    │ Software Engineering (Theory)    │ Software Engineering (Theory)    │ Numerical Computing (Theory)     │
+│               │ D                                │ C                                │ D                                │ C                                │ B                                │
+│               │ Prof. Moore                      │ Prof. Moore                      │ Prof. Aadil Ur Rehman            │ Prof. Moore                      │ Prof. Moore                      │
+│               │ 305-C                            │ 302-C                            │ 301-C                            │ 302-C                            │ 305-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ Numerical Computing (Theory)     │ Numerical Computing (Theory)     │ Numerical Computing (Theory)     │ Numerical Computing (Theory)     │
+│               │                                  │ B                                │ C                                │ D                                │ C                                │
+│               │                                  │ Prof. Moore                      │ Prof. Aadil Ur Rehman            │ Prof. Moore                      │ Prof. Aadil Ur Rehman            │
+│               │                                  │ 305-C                            │ 304-C                            │ 305-C                            │ 304-C                            │
+├───────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
+│ 14:50 - 16:10 │ Artificial Intelligence (Theory) │ Software Engineering (Theory)    │ Artificial Intelligence (Theory) │ Software Engineering (Theory)    │ Artificial Intelligence (Theory) │
+│               │ A                                │ F                                │ E                                │ F                                │ E                                │
+│               │ Prof. Johnson                    │ Prof. Usama Imtiaz               │ Prof. Moore                      │ Prof. Usama Imtiaz               │ Prof. Moore                      │
+│               │ 302-C                            │ 102-D                            │ 301-C                            │ 102-D                            │ 301-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ Artificial Intelligence (Theory) │ AI LAB (Lab)                     │ Web Programming (Theory)         │ Artificial Intelligence (Theory) │                                  │
+│               │ D                                │ A                                │ D                                │ A                                │                                  │
+│               │ Prof. Muhammad Ali               │ Prof. Aqib Rehman                │ Prof. Saad Salman                │ Prof. Johnson                    │                                  │
+│               │ 305-C                            │ 301-C                            │ 304-C                            │ 302-C                            │                                  │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ Web Programming (Theory)         │ AI LAB (Lab)                     │ AI LAB (Lab)                     │ Artificial Intelligence (Theory) │                                  │
+│               │ D                                │ D                                │ C                                │ D                                │                                  │
+│               │ Prof. Saad Salman                │ Prof. Thomas                     │ Prof. Muhammad Ali               │ Prof. Muhammad Ali               │                                  │
+│               │ 304-C                            │ 305-C                            │ 302-C                            │ 305-C                            │                                  │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ AI LAB (Lab)                     │                                  │                                  │ AI LAB (Lab)                     │                                  │
+│               │ B                                │                                  │                                  │ E                                │                                  │
+│               │ Prof. Aadil Ur Rehman            │                                  │                                  │ Prof. Zille Huma                 │                                  │
+│               │ 301-C                            │                                  │                                  │ 301-C                            │                                  │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ AI LAB (Lab)                     │                                  │                                  │                                  │                                  │
+│               │ F                                │                                  │                                  │                                  │                                  │
+│               │ Prof. Moore                      │                                  │                                  │                                  │                                  │
+│               │ 101-D                            │                                  │                                  │                                  │                                  │
+├───────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
+│ 16:25 - 17:45 │ AI LAB (Lab)                     │ Artificial Intelligence (Theory) │ Web Programming (Theory)         │ Web Programming (Theory)         │ Artificial Intelligence (Theory) │
+│               │ B                                │ B                                │ E                                │ C                                │ B                                │
+│               │ Prof. Aadil Ur Rehman            │ Prof. Moore                      │ Prof. Anderson                   │ Prof. Johnson                    │ Prof. Moore                      │
+│               │ 301-C                            │ 302-C                            │ 301-C                            │ 304-C                            │ 302-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │ AI LAB (Lab)                     │ Web Programming (Theory)         │ AI LAB (Lab)                     │ AI LAB (Lab)                     │ Web Programming (Theory)         │
+│               │ F                                │ C                                │ C                                │ E                                │ E                                │
+│               │ Prof. Moore                      │ Prof. Johnson                    │ Prof. Muhammad Ali               │ Prof. Zille Huma                 │ Prof. Anderson                   │
+│               │ 101-D                            │ 304-C                            │ 302-C                            │ 301-C                            │ 301-C                            │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ AI LAB (Lab)                     │                                  │                                  │                                  │
+│               │                                  │ A                                │                                  │                                  │                                  │
+│               │                                  │ Prof. Aqib Rehman                │                                  │                                  │                                  │
+│               │                                  │ 301-C                            │                                  │                                  │                                  │
+│               │                                  │                                  │                                  │                                  │                                  │
+│               │                                  │ AI LAB (Lab)                     │                                  │                                  │                                  │
+│               │                                  │ D                                │                                  │                                  │                                  │
+│               │                                  │ Prof. Thomas                     │                                  │                                  │                                  │
+│               │                                  │ 305-C                            │                                  │                                  │                                  │
+╘═══════════════╧══════════════════════════════════╧══════════════════════════════════╧══════════════════════════════════╧══════════════════════════════════╧══════════════════════════════════╛
